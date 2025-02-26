@@ -1,4 +1,4 @@
-# Papyrus_and_SKSE
+# Papyrus & SKSE
 
 [**DRAFT**] _My current template for Papyrus and SKSE hacking_
 
