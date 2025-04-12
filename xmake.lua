@@ -31,4 +31,6 @@ skse_plugin({
     mod_files = {"Scripts"},
     deps = {"Build Papyrus Scripts"},
     packages = {"SkyrimScripting.Plugin"},
+    src = {"src/**.cpp"},
+    include = {"include"},
 })

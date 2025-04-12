@@ -1,3 +1,5 @@
+#include "plugin.h"
+
 #include <SkyrimScripting/Plugin.h>
 
 void ShowMessageBox(RE::StaticFunctionTag*, std::string_view text) {
